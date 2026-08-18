@@ -23,18 +23,9 @@
 
 ![Tech stack](https://skillicons.dev/icons?i=java,swift,css,html)
 
-### Achievements
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsogoyalz&query=%24.public_repos&label=Repos&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/sogoyalz?style=for-the-badge&logo=github&color=blue)
-![Commits](https://img.shields.io/badge/Commits-243-brightgreen?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge&logo=github)
-
 ### Featured Projects
 
 - **[hydra-blast-radius](https://github.com/sogoyalz/hydra-blast-radius)** — Supply-chain blast radius for npm, built on HydraDB. Answers what is exposed when a package is compromised, including packages reachable through shared publish rights that dependency scanning misses. Built for Hack Hydra 2026, Track 2A.
 - **[BlueChip](https://github.com/sogoyalz/BlueChip)** — Full-stack crypto trading platform (MERN stack) where trades place real orders against Gemini's sandbox exchange with test funds, no real money at risk.
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=sogoyalz&color=blue&style=flat)
+<sub>![Profile views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsogoyalz&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=lightgrey) ![Followers](https://img.shields.io/github/followers/sogoyalz?style=flat-square&logo=github&label=Followers&color=lightgrey) ![Profile views](https://komarev.com/ghpvc/?username=sogoyalz&color=lightgrey&style=flat-square)</sub>
