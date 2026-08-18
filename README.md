@@ -10,10 +10,14 @@
   <img alt="Sourav Goyal's GitHub Streak" src="https://streak-stats.demolab.com?user=sogoyalz&hide_border=true">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sogoyalz&layout=compact&theme=github_dark&hide_border=true">
-  <img alt="Sourav Goyal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogoyalz&layout=compact&hide_border=true">
-</picture>
+### Top Languages
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-35.4%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-32.3%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-17.6%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-6.9%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4.6%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-2.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Tech Stack
 
@@ -21,10 +25,10 @@
 
 ### Achievements
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sogoyalz&theme=darkhub&no-frame=true&row=1&margin-w=8">
-  <img alt="Sourav Goyal's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sogoyalz&no-frame=true&row=1&margin-w=8">
-</picture>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsogoyalz&query=%24.public_repos&label=Repos&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/sogoyalz?style=for-the-badge&logo=github&color=blue)
+![Commits](https://img.shields.io/badge/Commits-243-brightgreen?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge&logo=github)
 
 ### Featured Projects
 
