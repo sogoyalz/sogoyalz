@@ -11,8 +11,7 @@ I'm a Computer Science student in the Honors College at Texas Tech University, p
 
 - 🎓 B.S. in Computer Science, expected Spring 2028
 - 🧑‍🏫 Undergraduate Grader for Data Structures at Texas Tech
-- 🔬 Undergraduate researcher in the Schwilk Lab, working at the intersection of computing, data, and functional ecology
-- 🌱 Currently strengthening my skills in backend engineering, research computing, R, and operating systems
+- 🌱 Currently strengthening my skills in backend engineering, research computing, and operating systems
 - 🤝 Open to software engineering, research, and open-source collaboration
 
 ## Tech Stack
