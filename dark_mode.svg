@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <text x="195" y="30" fill="#c9d1d9">
 <tspan x="195" y="30">Sourav Goyal (@sogoyalz)</tspan> -———————————————————————————————-—-
 <tspan x="195" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Developer</tspan>
-<tspan x="195" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">21 years, 10 months, 11 days</tspan>
+<tspan x="195" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">21 years, 10 months, 12 days</tspan>
 <tspan x="195" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Independent</tspan>
 <tspan x="195" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Student</tspan>
 <tspan x="195" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code</tspan>
