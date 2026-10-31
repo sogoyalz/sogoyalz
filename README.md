@@ -46,17 +46,6 @@ Right now, I'm focused on **data structures and algorithms, backend development,
 
 I also work with **SQL, GitHub Actions, automated tests, and browser testing** in my projects.
 
-### Open source
-
-- ✅ **[YouTube Download Manager — merged PR #3](https://github.com/aavvvacado/YouTube-Download-Manager/pull/3)**: Contributed a Flutter UI/UX update covering theming, responsive navigation, settings, and reusable widgets.
-
-### What I'm working on now
-
-```text
-DSA & problem solving   •   Backend APIs & databases
-Full-stack projects    •   Testing & software reliability
-```
-
 <p align="center">
   <em>Always learning, building, and improving one project at a time.</em>
 </p>
