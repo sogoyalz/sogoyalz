@@ -1,54 +1,62 @@
-<a href="https://github.com/sogoyalz/sogoyalz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sogoyalz/sogoyalz/main/dark_mode.svg">
-    <img alt="Sourav Goyal's GitHub Profile README" src="https://raw.githubusercontent.com/sogoyalz/sogoyalz/main/light_mode.svg">
-  </picture>
-</a>
+<h1 align="center">Hi, I'm Sourav Goyal 👋</h1>
 
-## Hi, I'm Sourav 👋
+<p align="center">
+  <strong>Computer Science Student · Texas Tech University</strong><br>
+  Honors College · Artificial Intelligence Minor · Class of 2028
+</p>
 
-I'm a Computer Science student in the Honors College at Texas Tech University, pursuing minors in Artificial Intelligence and Mathematics. I enjoy building backend systems, developer tools, and data-driven applications that solve practical problems.
+<p align="center">
+  <a href="https://sogoyalz.github.io/personal-website/">Portfolio</a> ·
+  <a href="https://github.com/sogoyalz?tab=repositories">Projects</a>
+</p>
 
-- 🎓 B.S. in Computer Science, expected Spring 2028
-- 🧑‍🏫 Undergraduate Grader for Data Structures at Texas Tech
-- 🌱 Currently strengthening my skills in backend engineering, research computing, and operating systems
-- 🤝 Open to software engineering, research, and open-source collaboration
+I'm a junior studying Computer Science at **Texas Tech University**. I like turning ideas into useful software and learning how systems work beyond the interface—from APIs and databases to testing, security, and deployment.
 
-## Tech Stack
+Right now, I'm focused on **data structures and algorithms, backend development, and building stronger end-to-end projects**. I'm interested in software engineering opportunities, practical AI, and open-source collaboration.
 
-### Languages
+### A little about me
 
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,r)
+- 🎓 **B.S. in Computer Science**, expected **Spring 2028**; **Honors College**; minor in **Artificial Intelligence**
+- 👨‍🏫 **Undergraduate Grader, CS 2413 (Data Structures)** at Texas Tech — supporting coursework and grading in programming and data structures
+- 🤝 **LYFE Mentor** — helping another student navigate college life
+- 🧩 Interested in **backend systems, developer tools, applied AI, and software reliability**
 
-### Backend, Web & Data
+### Selected projects
 
-![Backend and web](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,react,nextjs,mongodb,postgres)
+| Project | What I'm building / exploring |
+| --- | --- |
+| 🎬 **[ReelTogether](https://github.com/sogoyalz/ReelTogether)** | A movie discovery and watchlist application with a **Next.js / TypeScript** frontend and **FastAPI / SQLAlchemy** backend, including authentication, data ingestion, and explainable recommendations. |
+| 📱 **[Doomscroll](https://github.com/sogoyalz/Doomscroll)** | A privacy-focused **Chrome extension** for understanding Instagram Reels viewing patterns, with on-device tracking and analysis. Currently a **release candidate**, not a validated behavior-change tool. |
+| 📈 **[BlueChip](https://github.com/sogoyalz/BlueChip)** | A full-stack **trading sandbox** using **React, TypeScript, Express, and MongoDB**, with live market data, streaming updates, and simulated-money exchange orders. |
+| 🕸️ **[Supply Chain Blast Radius](https://github.com/sogoyalz/hydra-blast-radius)** | A **Hack Hydra 2026** graph-based explorer using **HydraDB** to analyze npm dependency exposure and shared package-publishing access. [Interactive demo](https://sogoyalz.github.io/hydra-blast-radius/?pkg=body-parser&maintainer=dougwilson). |
 
-### Tools
+### Technologies I've worked with
 
-![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux)
+**Languages**
 
-## Featured Projects
+![Languages](https://skillicons.dev/icons?i=python,ts,js,java,cpp,c)
 
-- **[ReelTogether](https://github.com/sogoyalz/ReelTogether)** — A full-stack movie discovery and movie-night platform built with Python, persistent data, authentication, database migrations, and deployment-focused reliability.
-- **[Doomscroll](https://github.com/sogoyalz/Doomscroll)** — A TypeScript browser extension that helps users understand Instagram usage patterns through on-device activity analysis and OCR-assisted insights.
-- **[Hydra Blast Radius](https://github.com/sogoyalz/hydra-blast-radius)** — A supply-chain risk explorer for npm that reveals exposure through shared package-publishing rights, built on HydraDB for Hack Hydra 2026.
-- **[Movie Pulse](https://github.com/sogoyalz/movie)** — A Python/FastAPI movie analytics application that combines movie data, public opinion, and production-oriented testing and deployment practices.
+**Frameworks & data**
 
-## Open-Source Contribution
+![Frameworks and data](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb)
 
-- **[YouTube Download Manager — PR #3](https://github.com/aavvvacado/YouTube-Download-Manager/pull/3)** — Contributed and merged a substantial Flutter UI/UX upgrade, including Material 3 theming, light/dark modes, responsive navigation, settings, download-flow improvements, and reusable widgets.
+**Tools & workflows**
 
-## Current Focus
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman)
+
+I also work with **SQL, GitHub Actions, automated tests, and browser testing** in my projects.
+
+### Open source
+
+- ✅ **[YouTube Download Manager — merged PR #3](https://github.com/aavvvacado/YouTube-Download-Manager/pull/3)**: Contributed a Flutter UI/UX update covering theming, responsive navigation, settings, and reusable widgets.
+
+### What I'm working on now
 
 ```text
-Backend engineering  •  Research computing  •  Data structures
-Python & FastAPI      •  Node.js & Express  •  R for ecological data
+DSA & problem solving   •   Backend APIs & databases
+Full-stack projects    •   Testing & software reliability
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sogoyalz&theme=github-dark-blue&hide_border=true">
-  <img alt="Sourav Goyal's GitHub Streak" src="https://streak-stats.demolab.com?user=sogoyalz&hide_border=true">
-</picture>
-
-<sub>![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsogoyalz&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=lightgrey) ![Followers](https://img.shields.io/github/followers/sogoyalz?style=flat-square&logo=github&label=Followers&color=lightgrey) ![Profile views](https://komarev.com/ghpvc/?username=sogoyalz&color=lightgrey&style=flat-square)</sub>
+<p align="center">
+  <em>Always learning, building, and improving one project at a time.</em>
+</p>
